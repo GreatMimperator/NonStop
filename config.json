@@ -1,0 +1,8 @@
+{
+    "socketAddress": {
+        "host": "localhost",
+        "port": 2233,
+        "connectionTriesCount": 3,
+        "connectionTryWaiting": 5000
+    }
+}
